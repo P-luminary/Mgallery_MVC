@@ -1,0 +1,53 @@
+
+h	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¢äşıÿÿÿÿ8î°ŒØ°1
+h	java:S112¦"FDefine and throw a dedicated exception instead of using a generic one.(üÛ¼úÿÿÿÿ8î°ŒØ°1
+Q
+java:S3740"/Provide the parametrized type for this generic.(Öàîûÿÿÿÿ8î°ŒØ°1
+Q
+java:S3740"/Provide the parametrized type for this generic.(Öàîûÿÿÿÿ8î°ŒØ°1
+e
+java:S1192."HDefine a constant instead of duplicating this literal "preview" 3 times.(¿ÅµÃ8î°ŒØ°1
+c
+java:S1192("FDefine a constant instead of duplicating this literal "pname" 3 times.(û‰ñğ8î°ŒØ°1
+h
+java:S1192"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(¼ßÊÒÿÿÿÿÿ8î°ŒØ°1
+n
+java:S1192/"LDefine a constant instead of duplicating this literal "description" 3 times.(ó¤°£øÿÿÿÿ8î°ŒØ°1
+h
+java:S1192-"FDefine a constant instead of duplicating this literal "price" 3 times.(®Ó—‰üÿÿÿÿ8î°ŒØ°1
+k
+java:S1192,"IDefine a constant instead of duplicating this literal "category" 3 times.(ÔÙƒíúÿÿÿÿ8ï°ŒØ°1
+P
+java:S2755y"3Disable access to external entities in XML parsing.(©›ï8‡±ŒØ°1
+P
+java:S2755"3Disable access to external entities in XML parsing.(©›ï8‡±ŒØ°1
+P
+java:S2755D"3Disable access to external entities in XML parsing.(©›ï8‡±ŒØ°1
+Q
+java:S2755 "3Disable access to external entities in XML parsing.(©›ï8‡±ŒØ°1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(áùáÜ8‹±ŒØ°1
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(–´ëê8Œ±ŒØ°1
+V
+java:S4719S"9Replace charset name argument with StandardCharsets.UTF_8(Ÿ…°8±ŒØ°1
+U	java:S106U"9Replace this use of System.out or System.err by a logger.(áùáÜ8±ŒØ°1
+L
+java:S2093F"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8±ŒØ°1
+]	java:S125g"<This block of commented-out lines of code should be removed.(…¥ÒÒÿÿÿÿÿ8±ŒØ°1
+\
+java:S1155€">Use isEmpty() to check whether the collection is empty or not.(Š²ğ8±ŒØ°1
+W
+java:S4719‰"9Replace charset name argument with StandardCharsets.UTF_8(Ÿ…°8‘±ŒØ°1
+L
+java:S2093{"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8‘±ŒØ°1
+\
+java:S1155¥">Use isEmpty() to check whether the collection is empty or not.(Š²ğ8’±ŒØ°1
+W
+java:S4719ª"9Replace charset name argument with StandardCharsets.UTF_8(Ÿ…°8“±ŒØ°1
+U
+java:S1135­"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8“±ŒØ°1
+U
+java:S1135´"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8“±ŒØ°1
+M
+java:S2093¢"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8“±ŒØ°1
+Z
+java:S1128"8Remove this unused import 'org.dom4j.DocumentException'.(ÖÌê øÿÿÿÿ8“±ŒØ°1

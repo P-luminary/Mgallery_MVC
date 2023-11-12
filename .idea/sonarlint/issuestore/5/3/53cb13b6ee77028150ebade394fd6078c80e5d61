@@ -1,0 +1,42 @@
+
+d
+java:S1192#"GDefine a constant instead of duplicating this literal "UTF-8" 13 times.(±Œ©À8Áİî×°1
+‰
+java:S1989#"lHandle the following exception that could be thrown by "setCharacterEncoding": UnsupportedEncodingException.(±Œ©À8†Şî×°1
+{
+java:S1989("^Handle the following exceptions that could be thrown by "list": ServletException, IOException.(àÉÒü8†Şî×°1
+o
+java:S1989+"MHandle the following exception that could be thrown by "delete": IOException.(œ÷¾ûÿÿÿÿ8Ğúò×°1
+…
+java:S1989-"hHandle the following exceptions that could be thrown by "showCreatePage": ServletException, IOException.(ËÆÔï8†Şî×°1
+}
+java:S1989/"`Handle the following exceptions that could be thrown by "create": ServletException, IOException.(¾á†Ø8‡Şî×°1
+…
+java:S19891"hHandle the following exceptions that could be thrown by "showUpdatePage": ServletException, IOException.(ƒÆ“²8‡Şî×°1
+}
+java:S19893"`Handle the following exceptions that could be thrown by "update": ServletException, IOException.(„Á›„8çÜ…Ø°1
+
+java:S19899"_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(—ôÖ¢øÿÿÿÿ8‡Şî×°1
+”
+java:S1130Q"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(Ş•Í›8‰Şî×°1
+X	java:S125T"<This block of commented-out lines of code should be removed.(É±Ë™8‰Şî×°1
+I
+java:S1125c"'Remove the unnecessary boolean literal.(Š‘è·ùÿÿÿÿ8ŠŞî×°1
+T	java:S106d"9Replace this use of System.out or System.err by a logger.(‘Òóh8ŠŞî×°1
+Z	java:S106v"9Replace this use of System.out or System.err by a logger.(óæÅ‰ûÿÿÿÿ8‹Şî×°1
+Z	java:S106y"9Replace this use of System.out or System.err by a logger.(¸¤Ìûÿÿÿÿ8ŒŞî×°1
+]	java:S125z"<This block of commented-out lines of code should be removed.(Ü°Ÿ øÿÿÿÿ8ŒŞî×°1
+Y	java:S125"<This block of commented-out lines of code should be removed.(“„ş¾8Şî×°1
+š
+java:S1130¦"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(°“î£úÿÿÿÿ8ü´¿è°1
+^	java:S125ª"<This block of commented-out lines of code should be removed.(°ÍÉ¿üÿÿÿÿ8‹íù×°1
+U	java:S106º"9Replace this use of System.out or System.err by a logger.(‘Òóh8‹íù×°1
+[	java:S106Ó"9Replace this use of System.out or System.err by a logger.(ğ©‡×ÿÿÿÿÿ8íù×°1
+[	java:S106Ö"9Replace this use of System.out or System.err by a logger.(¸¤Ìûÿÿÿÿ8íù×°1
+^	java:S125×"<This block of commented-out lines of code should be removed.(Ü°Ÿ øÿÿÿÿ8íù×°1
+U
+java:S1135å"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8íù×°1
+k
+java:S1128"NRemove this unused import 'org.apache.commons.fileupload.FileUploadException'.(Ş¨8‡µ¿è°1
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Ö¼ÛÌÿÿÿÿÿ8Şî×°1

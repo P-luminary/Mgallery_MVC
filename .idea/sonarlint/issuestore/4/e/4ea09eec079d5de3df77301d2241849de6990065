@@ -1,0 +1,11 @@
+
+Y
+java:S3972"7Move this "if" to a new line or add the missing "else".(ş¶õüÿÿÿÿ8Àºß¶¯1
+{
+java:S1989 "YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ÜÌÕ½üÿÿÿÿ8Àºß¶¯1
+{
+java:S1989 "YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ÜÌÕ½üÿÿÿÿ8Àºß¶¯1
+ƒ
+java:S1989#"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(…½Ïşÿÿÿÿÿ8Áºß¶¯1
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Ö¼ÛÌÿÿÿÿÿ8ø‰ß¶¯1

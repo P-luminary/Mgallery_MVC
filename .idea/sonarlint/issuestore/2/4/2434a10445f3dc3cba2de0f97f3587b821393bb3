@@ -1,0 +1,11 @@
+
+^javascript:S1125
+"6Refactor the code to avoid using this boolean literal.(óºõÆøÿÿÿÿ8¢ºÀè°1
+Qjavascript:S3504")Unexpected var, use let or const instead.(€šêùÿÿÿÿ8¤ºÀè°1
+Qjavascript:S3504'")Unexpected var, use let or const instead.(€šêùÿÿÿÿ8¤ºÀè°1
+Qjavascript:S35048")Unexpected var, use let or const instead.(€šêùÿÿÿÿ8¤ºÀè°1
+Qjavascript:S35049")Unexpected var, use let or const instead.(ëêÆŸúÿÿÿÿ8¤ºÀè°1
+cjavascript:S63539";Use concise character class syntax '\d' instead of '[0-9]'.(ëêÆŸúÿÿÿÿ8¤ºÀè°1
+^javascript:S1125J"6Refactor the code to avoid using this boolean literal.(Ûå¨’ıÿÿÿÿ8¦ºÀè°1
+Ljavascript:S3504M")Unexpected var, use let or const instead.(øö¼8¦ºÀè°1
+javascript:S2703R"\Add the "let", "const" or "var" keyword to this declaration of "suffix" to make it explicit.(¹é±ñ8¦ºÀè°1
